@@ -2,7 +2,7 @@
 This is a python demonstration of ho to perform **binary search** on unsorted array by first sorting it with **quicksort**
 
 ## Problem Statement
-Given unsorted array and target value find the index of the target value using **binary search**. Use **quicksort** to sort the array before applying **iterative binary search**.
+Given unsorted array and target value, find the index of the target value using **binary search**. Use **quicksort** to sort the array before applying **iterative binary search**.
 
 ## 🔧 Algorithms Used
 
